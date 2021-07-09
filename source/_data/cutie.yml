@@ -1,0 +1,66 @@
+logo: /images/avatar.png
+slogan: 一块石头就可以改变河流的方向
+# Configure navigation menu, provide a relative link and a path to icon (icon should better be square)
+# If menu is absent, only "archive", "search" and "more" menu items will be preserved
+# Configurable menu items should not exeed 4, otherwise the last ones will be ignored
+
+# menu:
+#   Introduction: 
+#     link: /introduction/
+#   Tutorial:
+#     link: /2018/02/12/hexo-theme-cutie-v2-tutorial/
+# As long as the name matches the font awesome icon name, you can add even more social links
+# As the tip: the social link can be a QRCODE link
+social:
+  github: https://github.com/Liuzjdev
+
+
+global:
+  title: Liuzj的博客
+  subtitle: 思考一切
+  description: Android developer
+  author: Zijian Liu
+  favicon: /images/favicon.png
+  site_tracker: google # google
+  comment_system: valine
+  icon_set: blue-shadow
+  use_animation: true
+  scheme: 
+    name: taurus
+    color: lime
+
+google_analytics:
+  track_id: UA-38342303-4
+
+google_adsense:
+  id: 
+
+page_404:
+  tencent_404: false
+
+disqus:
+  shortname: 
+
+gitment:
+  owner: 
+  repo: 
+  client_id: 
+  client_secret: 
+
+valine:
+  appId: tBcysyoj9731OUF5uYiySi1A-gzGzoHsz
+  appKey: 9Y8T0FcYUEurAkpRRfii3G2V
+  placeholder: '元芳，你怎么看'
+
+livere:
+  id: 
+  uid: 
+
+post:
+  allow_share: true
+  allow_modification: false
+  allow_commercial: false
+  use_lightgallery: true
+  allow_comment: true
+  toc_level: 2
+  enable_unread_badge: false
